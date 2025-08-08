@@ -10,14 +10,15 @@
             "uploadDate": "2025-05-25T17:27:00"
         },
         {
-            "title": "PEAK",
+            "title": "PROBA",
             "uris": [
-                "magnet:?xt=urn:btih:d8e2efa4174e0f9374f9490558ec8bd4485bfd2e&tr=tr=udp%3A%2F%2Fopentor.net%3A6969"
+                "magnet:?xt=urn:btih:d8e2efa4174e0f9374f9490557ec8bd4485bfd2e&tr=tr=udp%3A%2F%2Fopentor.net%3A6969"
             ],
-            "fileSize": "3.26 GB",
-            "uploadDate": "2025-05-25T17:27:00"
+            "fileSize": "2.26 GB",
+            "uploadDate": "2025-05-25T17:26:00"
         }
     ]
 
 }
+
 
